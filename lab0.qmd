@@ -1,0 +1,27 @@
+---
+title: "Lab #0: Test"
+author: "YOUR NAME HERE"
+format:
+  html:
+    embed-resources: true
+editor: source
+knitr:
+  opts_chunk:
+    message: false
+---
+
+```{r import}
+#| warning: false
+#| document: show
+
+```
+
+If you're able to see this file in RStudio (and edit it), congratulations! Please work on the single question below.
+
+###### Question 1
+Using the `paste()` function, input "Hello World" within the parentheses and write out the code below in the gray chunk.
+
+```{r unnamed-chunk-3}
+
+```
+
